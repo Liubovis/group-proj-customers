@@ -1,1 +1,1 @@
-# group-proj-customers
+# goit-markup-hw-06
