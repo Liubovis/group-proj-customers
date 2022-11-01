@@ -1,1 +1,1 @@
-# goit-markup-hw-06
+# gruop html + css project - customer section
